@@ -1,0 +1,29 @@
+{
+  "name": "مدیر مالی شخصی — PersonalFinance",
+  "short_name": "مالی من",
+  "description": "برنامه مدیریت مالی شخصی، کاملاً آفلاین و رمزنگاری‌شده: بانک‌ها، بدهی‌ها، اقساط، پرداخت‌ها و گزارش‌ها",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#070b18",
+  "theme_color": "#070b18",
+  "categories": ["finance", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
